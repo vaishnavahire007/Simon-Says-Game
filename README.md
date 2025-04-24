@@ -24,8 +24,7 @@ A traditional memory game remade with **HTML**, **CSS**, and **JavaScript**. Cha
 
 ![Simon Says Screenshot](screenshot.png)
 
-You can play it live too [here](#) (Add your GitHub Pages or deployment link)
-
+You can play it live too [here](https://simon-says-game-mocha-pi.vercel.app/)
 ---
 
 ## ????️ Tech Stack
