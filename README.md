@@ -22,7 +22,7 @@ A traditional memory game remade with **HTML**, **CSS**, and **JavaScript**. Cha
 
 ## ???? Demo
 
-![Simon Says Screenshot](./screenshot.png)
+![Simon Says Screenshot](screenshot.png)
 
 You can play it live too [here](#) (Add your GitHub Pages or deployment link)
 
