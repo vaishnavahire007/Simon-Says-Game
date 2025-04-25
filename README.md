@@ -45,4 +45,3 @@ You can play it live too [here](https://simon-says-game-mocha-pi.vercel.app/)
 
 ---
 
-## ???? Project Structure
