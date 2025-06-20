@@ -41,7 +41,7 @@ You can play it live too [here](https://simon-says-game-mocha-pi.vercel.app/)
 2. Observe the series of colors that illuminate.
 3. Click the colored buttons in the same sequence.
 4. For every level, the sequence will be one more.
-5. If you click the wrong button, the game is over and you have to restart.
+5. If you click the wrong button, the game is over and you have to Restart.
 
 ---
 
